@@ -61,7 +61,8 @@ Global Average Pooling
 Dense Layer + Softmax
        ↓
 4-Class Prediction
-<img width="1423" height="684" alt="image" src="https://github.com/user-attachments/assets/0bbfadac-b42f-4218-931b-94f16a243d72" />
+<img width="1193" height="638" alt="Screenshot 2025-11-20 131958" src="https://github.com/user-attachments/assets/56f06dac-8eda-43b7-a635-747b5e93b356" />
+
 
 
 🔄 Project Workflow / Methodology
