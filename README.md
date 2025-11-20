@@ -150,7 +150,7 @@ Deploy on Qualcomm AI Stack (Hexagon NPU)
 
 Port to STM32 microcontrollers using STM32Cube.AI
 
-Port to Arduino Uno R4 WiFi
+Port to Arduino Uno Q
 
 Add Grad-CAM explainability
 
@@ -168,7 +168,7 @@ brain-tumor-edge-ai-classifier/
 ├── README.md
 ├── model/
 │   ├── tflite-model.tflite
-│   ├── ei-model.json
+│   ├── model.json
 │   └── labels.txt
 │
 ├── docs/
