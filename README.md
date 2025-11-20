@@ -65,6 +65,7 @@ Dense Layer + Softmax
 
 
 🔄 Project Workflow / Methodology
+<img width="1648" height="813" alt="image" src="https://github.com/user-attachments/assets/e84c6890-fb22-4e94-86d0-81f1935df380" />
 
 Dataset Preparation
 
@@ -114,7 +115,6 @@ Application Testing
 Tested with multiple MRI samples
 
 Consistent predictions on mobile & web
-<img width="1648" height="813" alt="image" src="https://github.com/user-attachments/assets/e84c6890-fb22-4e94-86d0-81f1935df380" />
 
 
 📱 On-Device Deployment
