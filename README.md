@@ -61,6 +61,8 @@ Global Average Pooling
 Dense Layer + Softmax
        ↓
 4-Class Prediction
+<img width="1423" height="684" alt="image" src="https://github.com/user-attachments/assets/0bbfadac-b42f-4218-931b-94f16a243d72" />
+
 
 🔄 Project Workflow / Methodology
 
@@ -79,6 +81,7 @@ Transfer Learning with MobileNetV2
 Training cycles: 40
 
 Learning rate: 0.0005
+<img width="698" height="380" alt="image" src="https://github.com/user-attachments/assets/8ad730aa-79f8-4945-b8b8-00d3730f46ab" />
 
 Model Training & Evaluation
 
@@ -87,6 +90,7 @@ Accuracy: 94%
 Confusion matrix & per-class performance
 
 Stable loss/accuracy curves
+<img width="1065" height="952" alt="image" src="https://github.com/user-attachments/assets/1d841f01-6cf3-4e33-9bb2-2d553517847b" />
 
 Model Optimization
 
@@ -95,6 +99,7 @@ Generated TensorFlow Lite model
 Quantized for edge deployment
 
 Deployment
+<img width="1650" height="795" alt="image" src="https://github.com/user-attachments/assets/c96c158e-fe4d-41a5-a0eb-4991621720b5" />
 
 Tested using Edge Impulse Web Runtime
 
@@ -109,6 +114,8 @@ Application Testing
 Tested with multiple MRI samples
 
 Consistent predictions on mobile & web
+<img width="1648" height="813" alt="image" src="https://github.com/user-attachments/assets/e84c6890-fb22-4e94-86d0-81f1935df380" />
+
 
 📱 On-Device Deployment
 
@@ -129,6 +136,10 @@ Example output:
 Prediction: No Tumor  
 Confidence: 1.00  
 Inference time: 8 ms
+<img width="517" height="907" alt="image" src="https://github.com/user-attachments/assets/ad3ccda9-7350-4e41-bbbb-aefe25ae317d" />
+<img width="479" height="916" alt="image" src="https://github.com/user-attachments/assets/70f7db62-6899-4a6f-811a-eaeac935d6e2" />
+<img width="544" height="714" alt="image" src="https://github.com/user-attachments/assets/ba2bddbf-5fe9-42bc-8577-a6e96fe0d957" />
+<img width="634" height="714" alt="image" src="https://github.com/user-attachments/assets/ed329824-13e3-4c85-9dd2-e532a8de54bd" />
 
 🚀 Future Work
 
@@ -169,7 +180,7 @@ brain-tumor-edge-ai-classifier/
 
 📚 References (IEEE Format)
 
-[1] Kaggle Brain MRI Dataset, 2019.
+[1] Kaggle Brain MRI Dataset, 2019.(link:https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection)
 [2] M. Sandler et al., “MobileNetV2: Inverted Residuals and Linear Bottlenecks,” CVPR, 2018.
 [3] Edge Impulse Documentation, 2023.
 [4] TensorFlow Lite Documentation, Google, 2023.
