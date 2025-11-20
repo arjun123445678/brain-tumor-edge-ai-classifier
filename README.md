@@ -137,6 +137,8 @@ Example output:
 Prediction: No Tumor  
 Confidence: 1.00  
 Inference time: 8 ms
+
+
 <img width="517" height="907" alt="image" src="https://github.com/user-attachments/assets/ad3ccda9-7350-4e41-bbbb-aefe25ae317d" />
 <img width="479" height="916" alt="image" src="https://github.com/user-attachments/assets/70f7db62-6899-4a6f-811a-eaeac935d6e2" />
 <img width="544" height="714" alt="image" src="https://github.com/user-attachments/assets/ba2bddbf-5fe9-42bc-8577-a6e96fe0d957" />
