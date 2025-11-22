@@ -163,6 +163,8 @@ https://studio.edgeimpulse.com/public/615694/live
 🔗  Project Link of NeuroEdgeAI on youtube
 
 https://youtu.be/9tUdFrGsOvc
+🔗  Project presentation Link of NeuroEdgeAI 
+https://docs.google.com/presentation/d/1oRLjh-F_2YVwqEh5Es_WGNYt4oFA8LhE/edit?usp=sharing&ouid=115434534135916036337&rtpof=true&sd=true
 
 📁 Repository Structure
 brain-tumor-edge-ai-classifier/
