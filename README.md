@@ -172,6 +172,7 @@ brain-tumor-edge-ai-classifier/
 │   └── labels.txt
 │
 ├── docs/
+|   |--> Presentation.ppt
 │   ├── architecture.png
 │   ├── flowchart.png
 │   ├── confusion_matrix.png
