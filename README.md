@@ -31,6 +31,25 @@ Meningioma Tumor
 Pituitary Tumor
 
 No Tumor (Normal Brain)
+📁 Repository Structure
+brain-tumor-edge-ai-classifier/
+│
+├── README.md
+├── model/
+│   ├── tflite-model.tflite
+│   ├── model.json
+│   └── labels.txt
+│
+├── docs/
+|   |--> project_links.txt
+│   ├── architecture.png
+│   ├── flowchart.png
+│   ├── confusion_matrix.png
+│   ├── accuracy_curve.png
+│   └── inference_screenshot.png
+│
+└── android_test/
+    └── inference_results.png
 
 📂 Dataset
 
@@ -168,25 +187,7 @@ https://youtu.be/9tUdFrGsOvc
 
 https://docs.google.com/presentation/d/1oRLjh-F_2YVwqEh5Es_WGNYt4oFA8LhE/edit?usp=sharing&ouid=115434534135916036337&rtpof=true&sd=true
 
-📁 Repository Structure
-brain-tumor-edge-ai-classifier/
-│
-├── README.md
-├── model/
-│   ├── tflite-model.tflite
-│   ├── model.json
-│   └── labels.txt
-│
-├── docs/
-|   |--> project_links.txt
-│   ├── architecture.png
-│   ├── flowchart.png
-│   ├── confusion_matrix.png
-│   ├── accuracy_curve.png
-│   └── inference_screenshot.png
-│
-└── android_test/
-    └── inference_results.png
+
 
 📚 References (IEEE Format)
 
