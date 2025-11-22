@@ -161,6 +161,7 @@ Collect more real clinical MRI data
 https://studio.edgeimpulse.com/public/615694/live
 
 🔗  Project Link of NeuroEdgeAI on youtube
+
 https://youtu.be/9tUdFrGsOvc
 
 📁 Repository Structure
