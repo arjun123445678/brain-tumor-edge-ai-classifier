@@ -158,9 +158,10 @@ Collect more real clinical MRI data
 
 🔗 Edge Impulse Public Project Link
 
-Paste your project link here:
+https://studio.edgeimpulse.com/public/615694/live
 
-https://studio.edgeimpulse.com/studio/615694/impulse/3/create-impulse
+🔗  Project Link of NeuroEdgeAI on youtube
+https://youtu.be/9tUdFrGsOvc
 
 📁 Repository Structure
 brain-tumor-edge-ai-classifier/
